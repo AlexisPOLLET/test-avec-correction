@@ -1,4 +1,4 @@
-folium
 streamlit
-streamlit_folium
-st_folium
+pandas
+folium
+streamlit-folium
